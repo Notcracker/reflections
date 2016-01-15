@@ -13,3 +13,10 @@ When you'd like to have some working versions or work in different tendes on you
 ?How do the diagrams help you visualize the branch structure?
  
 Prutty simple. It just show me the branches I required via red slashes
+
+?What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The resold is the combained code. diagram helps us to understand what had happened for easer work
+
+?What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It can make live easier but...
